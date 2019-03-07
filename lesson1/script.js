@@ -16,7 +16,7 @@ let expenses = {
 let appData = {
   moneyData: money,
   timeData: time,
-  expenses: {"question1_1": "question1_2"},
+  expenses: {question1_1, question1_2},
   optionalExpenses: {},
   income: [],
   savings: false
