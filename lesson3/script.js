@@ -64,7 +64,7 @@ function checkSavings() {
     appData.monthIncome = save / 100 / 12 * percent;
     alert("Доход в месяц с вашего депозита: " + appData.monthIncome);
   }
-}
+} 
 checkSavings();
 
 
