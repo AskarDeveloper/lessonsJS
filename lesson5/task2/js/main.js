@@ -21,5 +21,3 @@ let startBtn = document.getElementById('start'),
   yearValueInput = document.querySelector('.year-value'),
   monthValueInput = document.querySelector('.month-value'),
   dayValueInput = document.querySelector('.day-value');
-
-  console.log(budgetValue);
